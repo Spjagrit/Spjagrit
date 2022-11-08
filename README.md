@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/97080055/200668596-3b60dc0b-b9a0-4770-a665-d150e1ca1160.png)
+![image](https://user-images.githubusercontent.com/97080055/200669310-43d819e5-f701-498a-bc66-4638164777bf.png)
 
 <h1 align="center">Hi 👋, I'm S P Jagrit</h1>
 <h3 align="justify">A Passionate Data-Analytics learner;Excellent understanding and proficiency of platforms for effective data analyses,including SQL,Sheets,Excel,Tableau,and R.Strong communication,organizational, and analytical skills.Demonstrated hands-on experience with data cleaning,data visualization,project management,interpreting and communicating data analytics findings.Confidence in transforming complex data into actionable and clear insights.Also have keen interest in learning software developer tools mainly the front-end part.</h3>
