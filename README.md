@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S P Jagrit</h1>
-<h3 align="center">A Passionate Data-Analytics learner;Excellent understanding and proficiency of platforms for effective data analyses,including SQL,Sheets,Excel,Tableau,and R.Strong communication,organizational, and analytical skills.Demonstrated hands-on experience with data cleaning,data visualization,project management,interpreting and communicating data analytics findings.Confidence in transforming complex data into actionable and clear insights.Also have keen interest in learning software developer tools mainly the front-end part.</h3>
+<h3 align="left">A Passionate Data-Analytics learner;Excellent understanding and proficiency of platforms for effective data analyses,including SQL,Sheets,Excel,Tableau,and R.Strong communication,organizational, and analytical skills.Demonstrated hands-on experience with data cleaning,data visualization,project management,interpreting and communicating data analytics findings.Confidence in transforming complex data into actionable and clear insights.Also have keen interest in learning software developer tools mainly the front-end part.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spjagrit&label=Profile%20views&color=0e75b6&style=flat" alt="spjagrit" /> </p>
 
