@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spjagrit&label=Profile%20views&color=0e75b6&style=flat" alt="spjagrit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spjagrit" alt="spjagrit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spjagrit&theme=radical" alt="spjagrit" /></a> </p>
 
 - 🌱 I’m currently learning **data structures and some sort of front-end implementation.**
 
