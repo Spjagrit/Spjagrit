@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/dwp2x/wp8358553.jpg" />
+<img src="https://wallpapercave.com/dwp2x/wp8358580.jpg" />
 
 <h1 align="center">Hi 👋, I'm S P Jagrit</h1>
 <h3 align="justify">A Passionate Data-Analytics learner;Excellent understanding and proficiency of platforms for effective data analyses,including SQL,Sheets,Excel,Tableau,and R.Strong communication,organizational, and analytical skills.Demonstrated hands-on experience with data cleaning,data visualization,project management,interpreting and communicating data analytics findings.Confidence in transforming complex data into actionable and clear insights.Also have keen interest in learning software developer tools mainly the front-end part.</h3>
