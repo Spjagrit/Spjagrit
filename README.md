@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/871030872/photo/programming-code-abstract-technology-background-of-software-developer.jpg?s=1024x1024&w=is&k=20&c=jNG6yzEE8d48wARziNXMB2vOJcHQBSZ1QpGKwJ0oj04=" />
+<img src="https://wallpapercave.com/dwp2x/wp7730538.jpg" />
 
 <h1 align="center">Hi 👋, I'm S P Jagrit</h1>
 <h3 align="justify">A Passionate Data-Analytics learner;Excellent understanding and proficiency of platforms for effective data analyses,including SQL,Sheets,Excel,Tableau,and R.Strong communication,organizational, and analytical skills.Demonstrated hands-on experience with data cleaning,data visualization,project management,interpreting and communicating data analytics findings.Confidence in transforming complex data into actionable and clear insights.Also have keen interest in learning software developer tools mainly the front-end part.</h3>
